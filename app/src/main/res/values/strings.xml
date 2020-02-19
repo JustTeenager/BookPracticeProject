@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo Practice 1-9 book huh</string>
+    <string name="DailyTitle">What would you like to do today?</string>
+    <string name="WeeklyTitle">What would you like to do this week?</string>
+    <string name="MonthlyTitle">What would you like to do this month?</string>
+    <string name="hint_creater">Type your idea there</string>
+    <string-array name="doType">
+        <item>Daily one</item>
+        <item>Weekly one</item>
+        <item>Monthly one</item>
+    </string-array>
+    <string name="sendButt">Go Ahead!</string>
+</resources>
